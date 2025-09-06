@@ -25,5 +25,3 @@ Criação da Instância EC2: Descreva os passos que você seguiu no console da A
 Conexão SSH: Explique como você se conectou à instância usando a chave privada e o comando ssh.
 
 Configurações de Segurança: Discuta a importância dos Security Groups e como você configurou as regras de entrada (inbound rules) para permitir o acesso à sua instância.
-
-Próximos Passos: O que mais você pretende fazer com esta instância ou o que você gostaria de explorar em seguida?
