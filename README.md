@@ -46,12 +46,6 @@ Se quiser trocar ideias ou tirar dúvidas sobre os projetos:
 
 ---
 
-## 👩‍💻 Sobre mim
-
-Meu nome é **Grasieli Figueredo**, formada em Administração e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, computação em nuvem e aprendizado contínuo.
-
----
-
 ✨ “Organizando o caos com soluções inteligentes.”
 
 
