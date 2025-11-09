@@ -30,16 +30,6 @@ O **Santander Code Girls** é uma iniciativa para capacitar mulheres na área de
 
 ---
 
-## 📬 Contato
-
-Se quiser trocar ideias ou tirar dúvidas sobre os projetos:  
-
-- **Email:** grasielifigueredo2@gmail.com  
-- **LinkedIn:** [Grasieli Figueredo](https://www.linkedin.com/in/grasieli-figueredo)  
-- **GitHub:** [grasielip](https://github.com/grasielip)  
-
----
-
 ## 👩‍💻 Sobre mim
 
 Meu nome é **Grasieli Figueredo**, formada em Administração e estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, computação em nuvem e aprendizado contínuo.
